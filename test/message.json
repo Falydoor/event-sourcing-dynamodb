@@ -1,0 +1,10 @@
+{
+    "id": "5b070a84-c5d5-460a-ac98-a0717cbc8e56",
+    "requestId": "677afffc-373e-42f0-8363-f24bc675bcf6",
+    "timestamp": "2020-05-01T20:00:00Z",
+    "type": "MICROSERVICE_REQUEST",
+    "source": "Gateway",
+    "data": {
+        "Name": "Microservice A"
+    }
+}
